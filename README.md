@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Wi-Fi Password Retrieval</title>
-</head>
+
 <body>
     <h1>Wi-Fi Password Retrieval</h1>
     <p>This Python script and application retrieve Wi-Fi network names and their passwords on a Windows system.</p>
