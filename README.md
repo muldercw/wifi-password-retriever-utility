@@ -8,7 +8,7 @@
 <body>
     <h1>Wi-Fi Password Retrieval</h1>
     <p>This Python script retrieves Wi-Fi network names and their passwords on a Windows system and displays them in the console.</p>
-    <img src="wifi_password.png" alt="Wi-Fi Password Retrieval Screenshot">
+    <img src="wifi_passwords.jpg" alt="Wi-Fi Password Retrieval Screenshot">
     <h2>Prerequisites</h2>
     <ul>
         <li>Python 3.x</li>
