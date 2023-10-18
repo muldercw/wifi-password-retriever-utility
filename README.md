@@ -20,7 +20,7 @@
     <p><strong>Note:</strong> Some Wi-Fi networks may not have their passwords available.</p>
     <h2>Method 2: Using the Windows Application</h2>
     <ol>
-        <li>Download the latest release of the <a href="https://github.com/YourUsername/wifi-password-retrieval/releases">Wi-Fi Password Retrieval Application</a> from the releases page.</li>
+        <li>Download the latest release of the <a href="https://github.com/YourUsername/wifi-password-retrieval/">Wi-Fi Password Retrieval Application</a> from the main page.</li>
         <li>Extract the downloaded ZIP file to a directory on your Windows machine.</li>
         <li>Run the `windowspasswords.exe` application.</li>
         <li>The application will display the Wi-Fi network names and their passwords if available.</li>
